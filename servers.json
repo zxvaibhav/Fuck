@@ -1,7 +1,14 @@
 {
-  "servers": [
-    "https://github.com/zxvaibhav/Fuck/raw/refs/heads/main/Crunchyroll.zip",
-    "https://github.com/vaibhavsatputebot/Inject/raw/refs/heads/main/Crunchyroll2.zip",
-    "https://github.com/vaibhavsatputebot/Inject/raw/refs/heads/main/Crunchyroll3.zip"
-  ]
+"com.crunchyroll.crunchyroid": {
+"latestVersion": 955,
+"mode": "automatic",
+"downloadUrl":
+"https://github.com/zxvaibhav/FileStore/raw/refs/heads/main/Crunchyroll.bin"
+},
+"in.startv.hotstar": {
+"latestVersion": 1,
+"mode": "automatic",
+"downloadUrl":
+"https://get.techbloggers.in/OFMODS/uploads /Hotstar-1-68af2ff6b5e85.bin"
+}
 }
